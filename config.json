@@ -6,7 +6,7 @@
     "http": {
         "enabled": false,
         "host": "20.123.4.211",
-        "port": 3344,
+        "port": 3333,
         "access-token": null,
         "restricted": true
     },
@@ -64,7 +64,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "20.123.4.211:3344",
+            "url": "20.123.4.211:3333",
             "user": "solo:UmVjoSueYs7GpnSX88rYiyHdpn88oc2oscvESMhTeFRjUncRSQQA54mXsiexY2Lggx6yZs1EbX7XNGJ5Amw9CZGa15rFgDq4T",
             "pass": "x",
             "rig-id": null,
